@@ -1,0 +1,1 @@
+window.location.href = "https://okieu.github.io/foxes/home.html";
