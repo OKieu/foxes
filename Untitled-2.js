@@ -1,1 +1,1 @@
-window.location.href = "https://okieu.github.io/foxes/home.html";
+document.setHomePage('https://okieu.github.io/foxes/home.html');
