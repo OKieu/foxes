@@ -1,1 +1,1 @@
-<meta http-equiv="refresh" content="0; URL=https://okieu.github.io/foxes/home.html" />
+<meta http-equiv="refresh" content="3; URL=https://okieu.github.io/foxes/home.html" />
