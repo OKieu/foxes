@@ -19,8 +19,18 @@ nav a {
     text-decoration: none;
     color: #ff7f50;
 }
-h1, h2 {
+h1 {
     color: #b22222;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #ff7f50;
+    font-size: large;
+}
+h2 {
+    color: #b22222;
+    font-size: 25px;
 }
 footer {
     margin-top: 20px;
@@ -36,4 +46,7 @@ footer {
 img {
     max-width: 100%;
     height: auto;
+}
+li {
+    font-size: 18px;
 }
