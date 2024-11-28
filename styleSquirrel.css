@@ -6,7 +6,7 @@ body {
     padding: 20px;
 }
 header {
-    background-color: #ff7f50;
+    background-color: #422f28;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -17,16 +17,16 @@ nav {
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: #ff7f50;
+    color: #422f28;
 }
 h1, h2 {
-    color: #b22222;
+    color: #64473d;
 }
 footer {
     margin-top: 20px;
     text-align: center;
     padding: 10px 0;
-    background-color: #ff7f50;
+    background-color: #422f28;
     color: white;
 }
 .content {
@@ -34,8 +34,6 @@ footer {
     margin: auto;
 }
 img {
-    max-width: 100%;
-    height: auto;
+    max-width: 480px;
+    height: 480px;
 }
-
-/* Change formatting, this is relative to foxes */
